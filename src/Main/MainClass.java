@@ -22,7 +22,7 @@ public class MainClass {
 			System.out.println("6. 파일생성");
 			System.out.println("7. 모두출력");
 			
-			System.out.println("실행할 번호 >>> ");
+			System.out.println("실행할 번호를 입력해주세요 >>> ");
 			int choice = sc.nextInt();
 			
 			switch(choice) {
